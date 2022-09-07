@@ -1,1 +1,1 @@
-This a pair project on simple_shell task
+This is 0x16. C - Simple Shell pair project
